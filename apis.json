@@ -1,0 +1,70 @@
+{
+    "name": "Zoho",
+    "description": "Run your entire business with Zoho's suite of online productivity tools and SaaS applications. Over 35 million users trust us worldwide.Try our Forever Free Plan!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/541-zoho.jpg",
+    "tags": [
+        "have api",
+        "office",
+        "pim",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zoho\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Zoho",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/541-zoho.jpg",
+            "humanURL": "http:\/\/apihelp.wiki.zoho.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/zoho-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.zoho.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blogs.zoho.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/zoho"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/zoho"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@zoho.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/zoho"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/zoho"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/www.zoho.com\/crm\/help\/automation\/webhooks.html"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/apihelp.wiki.zoho.com\/"
+        }
+    ]
+}
